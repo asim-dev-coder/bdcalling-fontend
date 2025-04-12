@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "category": "Newspaper",
+    "title": "Newspaper",
+    "type": "Course",
+    "lessons": 25,
+    "seat": "Technology Used :",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Best Seller"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjRmxFLS7ZI-kApTEnXLdvRgdcWxFLx_2Uw&s",
+    "liveLink": "https://earnest-kleicha-e21245.netlify.app/"
+  },
+  {
+    "id": 2,
+    "category": "E-commerce",
+    "title": "E-commerce",
+    "type": "Course",
+    "lessons": 25,
+    "seat": "Technology Used :",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Best Seller"
+    ],
+    "image": "https://api.bdcallingacademy.com/adminAsset/image/277973940.jpg",
+    "liveLink": "https://earnest-kleicha-e21245.netlify.app/"
+  },
+  {
+    "id": 3,
+    "category": "LMS",
+    "title": "LMS",
+    "type": "Course",
+    "lessons": 8,
+    "seat": "Technology Used :",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৯ ঘন্টা আগে",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Popular"
+    ],
+    "image": "https://api.bdcallingacademy.com/adminAsset/image/423172293.jpg",
+    "liveLink": "https://earnest-kleicha-e21245.netlify.app/"
+  },
+  {
+    "id": 4,
+    "category": "Travel",
+    "title": "Travel",
+    "type": "Course",
+    "lessons": 25,
+    "seat": "Technology Used :",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Best Seller"
+    ],
+    "image": "https://api.bdcallingacademy.com/adminAsset/image/993558111.jpg",
+    "liveLink": "https://earnest-kleicha-e21245.netlify.app/"
+  },
+  {
+    "id": 5,
+    "category": "E-commerce",
+    "title": "E-commerce",
+    "type": "Course",
+    "lessons": 18,
+    "seat": "Technology Used :",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Top Rated"
+    ],
+    "image": "https://api.bdcallingacademy.com/adminAsset/image/2137365522.jpg",
+    "liveLink": "https://earnest-kleicha-e21245.netlify.app/"
+  }
+]

@@ -10,7 +10,7 @@ const Root = () => {
     return (
         <div>
             <TopHeader></TopHeader>
-            <Navbar></Navbar>
+            <div className='sticky top-0 z-10'><Navbar></Navbar></div>
             <Outlet></Outlet>
             <Footer></Footer>
         </div>
