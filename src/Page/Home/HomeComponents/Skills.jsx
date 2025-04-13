@@ -2,6 +2,7 @@ import React from 'react';
 import { FaReact, FaHtml5, FaGithub } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 
+
 const Skills = () => {
     return (
         <div>

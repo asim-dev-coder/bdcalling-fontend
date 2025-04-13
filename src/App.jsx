@@ -1,11 +1,11 @@
 import { Route, Routes } from "react-router-dom";
 import Home from "./Page/Home/Home";
 import Root from "./Layout/Root";
-import Skills from "./Page/Skills/Skills";
+import Skills from "./Page/Skills Page/SkillsPage";
 import ProjectsCard from "./Page/My Projects/ProjectsCard";
 import Client from "./Page/Client/Client";
 import Pricing from "./Page/Pricing/Pricing";
-import ContactMe from "./Page/Contact Me/ContactMe";
+import ContactMe from "./Page/Contact Me Page/ContactMePage";
 
 function App() {
   return (

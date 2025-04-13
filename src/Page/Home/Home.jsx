@@ -1,10 +1,10 @@
 import React from 'react';
 import Hero from './HomeComponents/Hero';
-import Skills from '../Skills/Skills';
+import Skills from './HomeComponents/Skills';
 import ProjectsCard from '../My Projects/ProjectsCard';
 import Client from '../Client/Client';
 import Pricing from '../Pricing/Pricing';
-import ContactMe from '../Contact Me/ContactMe';
+import ContactMe from './HomeComponents/ContactMe';
 // ✅ import the image
 
 const Home = () => {

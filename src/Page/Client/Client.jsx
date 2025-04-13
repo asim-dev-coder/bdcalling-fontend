@@ -6,14 +6,14 @@ const Client = () => {
     const testimonials = [
         {
             id: 1,
-            name: 'Sarah Johnson',
-            role: 'Amazon Software Engineer',
-            content: 'Assim is a pro developer. Every time I took services from him,  I\'ve been satisfied',
-            avatar: 'https://randomuser.me/api/portraits/women/44.jpg',
+            name: 'The Rodriguez Family',
+            role: 'Google Software Engineer',
+            content: 'I\'m satisfied with his service, you can rely him on .',
+            avatar: 'https://randomuser.me/api/portraits/women/63.jpg',
             rating: 5,
-            stayDate: 'May 2024'
+            stayDate: 'July 2024'
         },
-        {
+                {
             id: 2,
             name: 'Michael Chen',
             role: 'Meta Backend Developer',
@@ -24,12 +24,12 @@ const Client = () => {
         },
         {
             id: 3,
-            name: 'The Rodriguez Family',
-            role: 'Google Software Engineer',
-            content: 'I\'m satisfied with his service, you can rely him on .',
-            avatar: 'https://randomuser.me/api/portraits/women/63.jpg',
+            name: 'Sarah Johnson',
+            role: 'Amazon Software Engineer',
+            content: 'Assim is a pro developer. Every time I took services from him,  I\'ve been satisfied',
+            avatar: 'https://randomuser.me/api/portraits/women/44.jpg',
             rating: 5,
-            stayDate: 'July 2024'
+            stayDate: 'May 2024'
         },
         {
             id: 4,
@@ -142,14 +142,14 @@ const Client = () => {
                         </div>
                         <button
                             onClick={prevTestimonial}
-                            className="absolute left-4 top-1/2 -translate-y-1/2 bg-white p-2 rounded-full shadow-md text-[#023e8a] hover:bg-amber-50 transition-colors"
+                            className="absolute left-4 top-1/2 -translate-y-1/2 bg-white p-2 rounded-full shadow-md text-[#023e8a] hover:bg-[#caf0f8] transition-colors"
                             aria-label="Previous testimonial"
                         >
                             <ChevronLeftIcon className="w-6 h-6" />
                         </button>
                         <button
                             onClick={nextTestimonial}
-                            className="absolute right-4 top-1/2 -translate-y-1/2 bg-white p-2 rounded-full shadow-md text-[#023e8a] hover:bg-amber-50 transition-colors"
+                            className="absolute right-4 top-1/2 -translate-y-1/2 bg-white p-2 rounded-full shadow-md text-[#023e8a] hover:bg-[#caf0f8] transition-colors"
                             aria-label="Next testimonial"
                         >
                             <ChevronRightIcon className="w-6 h-6" />
