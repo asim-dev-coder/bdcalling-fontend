@@ -6,7 +6,7 @@ const Pricing = () => {
             <div className='w-9/12 mx-auto py-4'>
                 <h1 className='text-4xl text-center font-bold mb-5 text-[#023e8a]'>Hire Me
                 </h1>
-                <div className='flex justify-around'>
+                <div className='flex flex-wrap justify-center lg:justify-around xl:justify-around'>
                     <div>
                         <div class="flex flex-col rounded-lg bg-white shadow-sm max-w-96 p-8 my-3 border border-slate-200">
                             <div class="pb-8 m-0 mb-8 text-center text-slate-800 border-b border-slate-200">

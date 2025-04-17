@@ -12,7 +12,7 @@ const Skills = () => {
                     </h1>
                     <h1 className='text-2xl text-center font-medium my-6 text-[#023e8a]'>I give services in Frontend Development, having proficiency in-
                     </h1>
-                    <div className='flex justify-between text-[#023e8a] py-3'>
+                    <div className='grid sm:grid-cols-2 md:flex justify-between text-[#023e8a] py-3 gap-4'>
                         <div class="relative">
                             <div
                                 class="absolute -inset-1 rounded-lg bg-gradient-to-r from-[#023e8a] via-[#48cae4] to-[#caf0f8] opacity-75 blur"
