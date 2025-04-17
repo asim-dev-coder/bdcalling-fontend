@@ -33,8 +33,8 @@
   },
   {
     "id": 3,
-    "category": "LMS",
-    "title": "LMS",
+    "category": "Travel",
+    "title": "Travel",
     "type": "Course",
     "lessons": 8,
     "seat": "Technology Used :",
@@ -44,13 +44,13 @@
     "tags": [
       "Popular"
     ],
-    "image": "https://api.bdcallingacademy.com/adminAsset/image/423172293.jpg",
+    "image": "https://www.travelanddestinations.com/wp-content/uploads/2021/11/Maldives-islands-and-resorts.jpg",
     "liveLink": "https://earnest-kleicha-e21245.netlify.app/"
   },
   {
     "id": 4,
-    "category": "Travel",
-    "title": "Travel",
+    "category": "LMS",
+    "title": "LMS",
     "type": "Course",
     "lessons": 25,
     "seat": "Technology Used :",
@@ -76,7 +76,7 @@
     "tags": [
       "Top Rated"
     ],
-    "image": "https://api.bdcallingacademy.com/adminAsset/image/2137365522.jpg",
-    "liveLink": "https://earnest-kleicha-e21245.netlify.app/"
+    "image": "https://lustria.g5plus.net/main/wp-content/uploads/2018/12/product-21.jpg",
+    "liveLink": "https://assim-plant.netlify.app/"
   }
 ]
