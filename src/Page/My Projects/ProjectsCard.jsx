@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { FaReact, FaHtml5 } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
+import { FaRegHeart } from "react-icons/fa";
 
 const ProjectsCard = ({ selectedCategory, increment, handleCartProduct }) => {
   const [products, setProducts] = useState([]);
@@ -30,7 +31,10 @@ const ProjectsCard = ({ selectedCategory, increment, handleCartProduct }) => {
               <img className="object-cover w-full h-full duration-1000 ease-in-out hover:scale-110" src={product.image} alt={product.title} />
             </div>
             <div className="p-2">
-              <h1 className="text-xl font-bold text-[#023e8a]">{product.title}</h1>
+              <div className="flex items-center justify-between">
+                <h1 className="text-xl font-bold text-[#023e8a]">{product.title}</h1>
+                <FaRegHeart size={22} className="text-[#023e8a]" />
+              </div>
               <div className="flex items-center gap-3 my-3">
                 <p className=" text-[#023e8a]">{product.seat}</p>
                 <FaReact className="text-[#46bddb]" size={22} />
