@@ -12,11 +12,11 @@ const TopHeader = () => {
                     <div className='flex items-center gap-5 py-2 '>
                         <div className='flex gap-1 items-center  pr-4 '>
                             <IoMdCall className='text-[20px] ' />
-                            <p className='text-[15px]'>+8801556440078</p>
+                            <p className='text-[15px]'><a href='https://web.whatsapp.com/' target="_blank">+8801556440078</a></p>
                         </div>
                         <div className='flex gap-2  text-[20px] items-center'>
                             <IoMailOutline className='text-xl' />
-                            <p className='text-[15px]'>asimankon@gmail.com</p>
+                            <p className='text-[15px]'><a href='https://www.bing.com/ck/a?!&&p=3cebd7c39b00614a24edc1265974cbd97e3284b1f10ff2aa0234e2bcb1ffa672JmltdHM9MTc0NjgzNTIwMA&ptn=3&ver=2&hsh=4&fclid=1a91a735-ebff-6c99-0698-b2ddea736dbf&psq=google&u=a1aHR0cHM6Ly9tYWlsLmdvb2dsZS5jb20vbWFpbC91LzEv&ntb=1' target="_blank">asimankon@gmail.com</a></p>
                         </div>
                     </div>
                     <div>
